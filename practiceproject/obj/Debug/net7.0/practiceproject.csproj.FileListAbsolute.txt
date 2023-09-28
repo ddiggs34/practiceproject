@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Desktop\repos\practiceproject\practiceproject\bin\Debug\net7.0\practiceproject.exe
+C:\Users\Admin\OneDrive\Desktop\repos\practiceproject\practiceproject\bin\Debug\net7.0\practiceproject.deps.json
+C:\Users\Admin\OneDrive\Desktop\repos\practiceproject\practiceproject\bin\Debug\net7.0\practiceproject.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\repos\practiceproject\practiceproject\bin\Debug\net7.0\practiceproject.dll
+C:\Users\Admin\OneDrive\Desktop\repos\practiceproject\practiceproject\bin\Debug\net7.0\practiceproject.pdb
+C:\Users\Admin\OneDrive\Desktop\repos\practiceproject\practiceproject\obj\Debug\net7.0\practiceproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\repos\practiceproject\practiceproject\obj\Debug\net7.0\practiceproject.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\repos\practiceproject\practiceproject\obj\Debug\net7.0\practiceproject.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\repos\practiceproject\practiceproject\obj\Debug\net7.0\practiceproject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\repos\practiceproject\practiceproject\obj\Debug\net7.0\practiceproject.dll
+C:\Users\Admin\OneDrive\Desktop\repos\practiceproject\practiceproject\obj\Debug\net7.0\refint\practiceproject.dll
+C:\Users\Admin\OneDrive\Desktop\repos\practiceproject\practiceproject\obj\Debug\net7.0\practiceproject.pdb
+C:\Users\Admin\OneDrive\Desktop\repos\practiceproject\practiceproject\obj\Debug\net7.0\practiceproject.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\repos\practiceproject\practiceproject\obj\Debug\net7.0\ref\practiceproject.dll
